@@ -1,0 +1,4 @@
+echo
+dir
+help
+pause
